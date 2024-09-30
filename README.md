@@ -16,7 +16,7 @@ Welcome to **aStoryOfME35**, a captivating journey through the life of Chris Rog
 
 ## Overview
 
-**aStoryOfME35** tells the story of [Main Character], a curious soul navigating the highs and lows of their 35th year on Earth. In a world full of unexpected twists, their journey becomes an inspiring testament to resilience and the pursuit of inner peace.
+**aStoryOfME35** tells the story of Chris Rogers, a curious soul navigating the highs and lows of their years on Earth. In a world full of unexpected twists, their journey becomes an inspiring testament to resilience and the pursuit of inner peace.
 
 The story weaves together moments of joy, pain, love, and self-reflection, illustrating how our individual experiences shape who we are. It’s a deep dive into the mind of someone in the midst of a transformative year.
 
