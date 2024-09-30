@@ -1,6 +1,6 @@
 # aStoryOfME35 📖
 
-Welcome to **aStoryOfME35**, a captivating journey through the life of [Author Name]. This book is a blend of personal reflections, fictional twists, and inspiring lessons on life, challenges, and self-discovery. From the first page to the last, it offers a profound exploration of what it means to grow, learn, and thrive in an ever-changing world.
+Welcome to **aStoryOfME35**, a captivating journey through the life of Chris Rogers. This book is a blend of personal reflections, fictional twists, and inspiring lessons on life, challenges, and self-discovery. From the first page to the last, it offers a profound exploration of what it means to grow, learn, and thrive in an ever-changing world.
 
 ## Table of Contents
 
