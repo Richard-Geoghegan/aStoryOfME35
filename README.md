@@ -74,7 +74,4 @@ Interested in contributing to the next edition of **aStoryOfME35**? Here’s how
 
 A heartfelt thanks to everyone who made **aStoryOfME35** possible:
 
-- [Supportive Person 1]: For their guidance and encouragement.
-- [Supportive Person 2]: For the countless hours spent listening to drafts.
-
 And to all the readers who have been a part of this journey — this book is for you.
